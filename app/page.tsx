@@ -203,7 +203,7 @@ export default function Home() {
             </div>
             <div className="keyboard-button">
               <span className="text-xs text-white/80">{'"'}</span>
-              <span>'</span>
+              <span>&apos;</span>
             </div>
             <div className="key-button-sec flex items-center justify-end pr-2 pb-2 pl-4">
               return
