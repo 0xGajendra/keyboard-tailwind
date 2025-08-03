@@ -280,9 +280,9 @@ export default function Home() {
               </span>
               <span className="">option</span>
             </div>
-            <div className="flex items-center justify-between gap-1">
+            <div className="flex items-center justify-between gap-1 h-[80%]">
                
-            <div className="flex items-center justify-end">
+            <div className="flex items-center justify-end mt-10">
               <div
                 className="px-8 bg-black rounded-lg h-full w-1/14 py-1.5 flex flex-col items-center justify-between text-xs 
          shadow-2xl shadow-white ring-2 ring-white/50 
@@ -310,10 +310,10 @@ export default function Home() {
                 <ArrowBigDown className="size-3" />
               </div>
             </div>
-            <div className="flex items-center">
+            <div className="flex items-end mt-10">
               <div></div>
               <div
-                className="px-8 bg-black rounded-lg h-full w-1/14 py-1.5 flex flex-col items-center justify-between text-xs 
+                className="px-8 bg-black rounded-lg h-full w-1/14 py-1.5 flex flex-col items-center justify-end text-xs 
          shadow-2xl shadow-white ring-2 ring-white/50 
          transition-all duration-100 
          hover:ring-1 hover:shadow-xl hover:scale-95 hover:shadow-white/15 hover:cursor-pointer hover:overflow-hidden hover:bg-black/90"
