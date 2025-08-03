@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Keyboard Componenet TailwindCSS",
+  title: "Keyboard Component TailwindCSS",
   description: "Keyboard Component Using TailwindCSS only",
 };
 
